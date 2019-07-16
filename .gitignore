@@ -30,9 +30,12 @@
 *.exe
 *.out
 *.app
+<<<<<<< HEAD
 
 # 操作系统相关
 .DS_Store
 
 # 编辑器相关
 .vscode
+=======
+>>>>>>> bf229272a868677c55631fd0d31b391cbaf2876e
